@@ -21,7 +21,32 @@ The following **required** functionality is completed:
 A [walkthrough video](https://youtube.com/shorts/2af-HVhidnY?feature=share) is uploaded to YouTube.
 
 ## App Brainstorming (Step 4)
+### My Favorite Apps
 
+#### 1. TickTick  
+- Smooth switch between daily, weekly, and monthly views
+- Postpone key to move all overdue items to today
+
+#### 2. WeChat  
+- Only shows post comments from mutual friends 
+- You can easily add custom sticker memes to chats
+
+#### 3. Camera  
+- Blurs the screen when viewed from the App Switcher
+- Has a button to switch to the Photos app easily
+
+#### 4. RedNote  
+- Great personalized recommendation system 
+- Gives you the option to either share your posts with potential connections or intentionally block them from seeing it
+
+### My App Idea
+
+I want to make a diary app that works like social media, but only for yourself.
+
+You can write long posts like a blog, short ones like a tweet, or just post a photo. You can also leave comments on your old posts, like replying to your past self. It creates a kind of quiet conversation between who you were and who you are now.
+
+There won’t be any social features. No followers, nothing public. Just a private space that feels honest and safe for reflection.
+  
 ## Notes
 
 I spent some time figuring out how to connect the button to the logic.
